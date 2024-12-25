@@ -18,15 +18,13 @@
 
 #### 使用场景：
 1. **文章改写和辅助创作**
-2. 
-![image](https://github.com/user-attachments/assets/b417a9ea-127e-4efb-8356-abe68393f39f)
+ ![image](https://github.com/user-attachments/assets/b417a9ea-127e-4efb-8356-abe68393f39f)
 
-3. **AI绘画支持**  
+2. **AI绘画支持**  
    - 用户可使用分镜提示词辅助AI绘画。
-   - 
 ![image](https://github.com/user-attachments/assets/0aa85cd0-c11f-4145-a259-03e46f72c5ce)
 
-4. **社区共享机器人**  
+3. **社区共享机器人**  
    - 用户也可直接使用社区内已创建的机器人，省时高效。
 
 ---
